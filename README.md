@@ -18,6 +18,6 @@ Explications concernant le lien entre le chiffre rentré (dans la taille de l'é
   
   ![Capture](https://user-images.githubusercontent.com/65156750/125201606-2b8ff000-e270-11eb-8222-93e15e241715.PNG)
   
-  - Si je rentre 5, les lignes d'étoiles parallèles seront égales à (5 + 2+2+2)*2 donc 22. 
-  Ainsi le reste des étoiles des autres lignes est égale à 5. 
+  - Si je rentre 5, les lignes d'étoiles parallèles seront égales à (5 + 2+2+2)*2 donc 22. Ainsi le reste des étoiles des autres lignes est égale à 5. 
+  
 ![0](https://user-images.githubusercontent.com/65156750/125201704-8b869680-e270-11eb-971c-09608777e687.PNG)
