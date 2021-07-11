@@ -1,6 +1,6 @@
 # Star
 
-##Ce test technique a pour but d'afficher une étoile, dont sa taille est défini au préalable. 
+Ce test technique a pour but d'afficher une étoile, dont sa taille est défini au préalable. 
 
 Pour cela, il nous faudra donc réaliser une interface, où l'on va venir rentrer la taille de l'étoile que l'on souhaite. 
 Pour ma part, ayant développer en PHP, il me faut créer la base de donnée suivante : 
@@ -15,6 +15,7 @@ Explications concernant le lien entre le chiffre rentré (dans la taille de l'é
   Exemple : 
   - Si je rentre 1, les lignes d'étoiles parallèles (sur la 2ème et 4ème ligne) seront égales à (1 + 2)*2 donc 6. 
   Ainsi le reste des étoiles des autres lignes est égale à 1. 
+  
   ![Capture](https://user-images.githubusercontent.com/65156750/125201606-2b8ff000-e270-11eb-8222-93e15e241715.PNG)
   
   - Si je rentre 5, les lignes d'étoiles parallèles seront égales à (5 + 2+2+2)*2 donc 22. 
